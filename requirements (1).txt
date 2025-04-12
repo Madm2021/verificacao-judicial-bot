@@ -1,4 +1,0 @@
-Flask
-selenium
-requests
-gunicorn
